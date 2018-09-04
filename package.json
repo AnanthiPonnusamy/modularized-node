@@ -1,7 +1,7 @@
 {
-  "name": "node_basic",
-  "version": "1.0.0",
-  "description": "sample node project",
+  "name": "modularized-node",
+  "version": "0.0.1",
+  "description": "Sample modularized node application with Mysql and MongoDB. Database connection is configurable with zero down time.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,9 +9,10 @@
   },
   "keywords": [
     "node_sample",
-    "REST_node"
+    "REST_node",
+    "modular_node"
   ],
-  "author": "Ananthi",
+  "author": "Ananthi Ponnusamy",
   "license": "ISC",
   "dependencies": {
     "bluebird": "*",
