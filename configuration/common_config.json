@@ -1,0 +1,7 @@
+{
+  "port": 3000,
+  "host": "localhost",
+  "database": "mongodb",
+  "routePath": "mongoDao",
+  "connection": "mongodb_connection"
+}
